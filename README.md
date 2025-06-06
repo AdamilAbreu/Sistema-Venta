@@ -25,7 +25,12 @@
 
 ![Vista previa](img-github/pag-ventas.png)
 
-
+## Tecnologías utilizadas
+- HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRTIPS
+- LARAVEL
 
 ## License
 
